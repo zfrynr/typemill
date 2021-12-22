@@ -62,7 +62,7 @@ DO_YOU_REALLY_WANT_TO_DELETE_THE_USER: Kullanıcıyı gerçekten silmek istiyor 
 DO_YOU_REALLY_WANT_TO_DELETE_THIS_PAGE: Bu sayfayı gerçekten silmek istiyor musunuz?
 DO_YOU_WANT_TO_DISCARD_YOUR_CHANGES_AND_SET_THE_CONTENT_BACK_TO_THE_LIVE_VERSION: Değişikliklerinizi atmak ve içeriği canlı sürüme geri ayarlamak istiyor musunuz?
 DRAFT: taslak
-DRAG_A_PICTURE_OR_CLICK_TO_SELECT: bir görüntü yükle
+DRAG_A_PICTURE_OR_CLICK_TO_SELECT: bir resim yükle
 DUTCH__FLEMISH: Hollandaca, Flamanca
 EDIT: düzenle
 EDITOR: editör
@@ -94,10 +94,10 @@ HOMEPAGE: Anasayfa
 HORIZONTAL_LINE: Yatay Çizgi
 HR: hr
 IF_NOT_FILLED__THE_DESCRIPTION_IS_EXTRACTED_FROM_CONTENT_: Doldurulmazsa, açıklama içerikten çıkarılır.
-IMAGE: Görüntü
-IMAGES: Görüntüler
-IMAGE_URL: Görüntü URL'si
-IMAGE_URL_(READ_ONLY): Görüntü URL'si (salt okunur)
+IMAGE: Resim
+IMAGES: Resimler
+IMAGE_URL: Resim URL'si
+IMAGE_URL_(READ_ONLY): Resim URL'si (salt okunur)
 ITALIAN: İtalyan
 ITALIC: Eğik
 LANGUAGE: Lisan
@@ -142,7 +142,7 @@ PLEASE_CORRECT_THE_ERRORS_ABOVE: Lütfen yukarıdaki hataları düzeltin
 PLUGINS: Eklentiler
 PLUGIN_STORE: Eklenti Mağazası
 POWER_OFF: kapat
-PROFILE_IMAGE: Profil-Görüntüsü
+PROFILE_IMAGE: Profil-Resmi
 PUBLISH: Yayınla
 QUOTE: Alıntı
 QUOTES: Alıntı
@@ -186,7 +186,7 @@ ULIST: ulist
 UNKNOWN: Bilinmyene
 UPDATE_USER: Kullanıcıyı Güncelle
 UPLOAD: yükle
-UPLOAD_AN_IMAGE: bir görüntü yükle
+UPLOAD_AN_IMAGE: bir resim yükle
 UPLOAD_FILE: bir dosya yükle
 UPS__WRONG_PASSWORD_OR_USERNAME__PLEASE_TRY_AGAIN_: Dikkat, yanlış şifre veya kullanıcı adı, lütfen tekrar deneyin.
 USED_AS_FALLBACK_WHEN_NO_MANUAL_DATE_IS_SET_: Manuel tarih ayarlanmadığında yedek olarak kullanılır.
@@ -260,7 +260,7 @@ ERROR_REPORTING: Hata Raporlama
 IF_YOU_ADD_A_VALUE_FOR_THE_HEIGHT__THEN_THE_IMAGE_WILL_BE_CROPPED_: Yükseklik için bir değer eklerseniz, görüntü kırpılacaktır.
 PROXY: Vekil
 STANDARD_HEIGHT_FOR_IMAGES: Resimler için standart yükseklik
-STANDARD_WIDTH_FOR_IMAGES: Görüntüler için standart genişlik
+STANDARD_WIDTH_FOR_IMAGES: Resimler için standart genişlik
 THE_FOLLOWING_OPTIONS_ARE_ONLY_FOR_DEVELOPERS: Aşağıdaki seçenekler yalnızca geliştiriciler ve deneyimli yöneticiler içindir. Seçenekleri yalnızca gerçekten anlıyorsanız değiştirin. Örneğin, canlı bir web sitesi için hata raporlamayı asla etkinleştirmeyin, bu seçeneği yalnızca hata düzeltme için kullanın.
 THIS_APPLIES_ONLY_FOR_FUTURE_IMAGES_IN_THE_CONTENT_AREA_: Bu, yalnızca içerik alanındaki gelecekteki görüntüler için geçerlidir.
 TRUSTED_IPS_FOR_PROXY_(COMMA_SEPARATED): Proxy için güvenilir IP'ler (virgülle ayrılmış)
